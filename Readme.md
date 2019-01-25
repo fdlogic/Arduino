@@ -3,7 +3,7 @@
 ## Contenido
 
 - [Introducción](#Introd)
-- [Infrmación](#PICfile)
+- [Información](#PICfile)
  
 ### Introduction<a name = Introd></a>
 
@@ -28,11 +28,11 @@ Manejo básico de sensores como por ejemplo, BMP 280 y DS18b20
 
 Manejo básico de pines I/O.
  
-### Version and date<a name = Version></a>
+### Versin y fecha date<a name = Version></a>
 
-Driver files      | Version | Fecha
+Driver            | Versión | Fecha
 ------------------|---------|------------
-Blinky.ino        |  1.2    | 18 Jun 2018
+Blinky.ino        |  1.2    | 22 Jan 2019
 
 
 
