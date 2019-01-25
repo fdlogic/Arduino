@@ -12,9 +12,7 @@ This codes was made for Arduino UNO and Arduino Nano but their can be used for a
 This codes its separeted on:
 
 Blinky
-Coomunications
-Motor
-Projects
+Comunications
 Sensors
 Switch Button
 
