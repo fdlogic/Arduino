@@ -1,13 +1,13 @@
 /****************************************************************
-Program: Blinky
+Programa: Blinky
 Board: Arduino UNO
 ****************************************************************/
 
-int Led_1 = 7;                // LED in pin 7
+int Led_1 = 7;                // LED en pin 7
 
 void setup() {
 
-  pinMode(Led_1, OUTPUT);     // pin 7 like OUTPUT
+  pinMode(Led_1, OUTPUT);     // pin 7 como OUTPUT
 
 }
 

@@ -1,25 +1,24 @@
-# Codes for Arduino
+# Códigos para Arduino
 
-## Table of Contents
+## Contenido
 
-- [Introduction](#Introd)
-- [Arduino information](#PICfile)
+- [Introducción](#Introd)
+- [Infrmación](#PICfile)
  
 ### Introduction<a name = Introd></a>
 
-This codes was made for Arduino UNO and Arduino Nano but their can be used for another Arduino model, simply change the i/o pins
+Estos códigos están hechos para Arduino Uno y Arduino Nano aunque, se pueden modificar sus pines I/O para otro modelo de Arduino.
 
-This codes its separeted on:
+En este respositorio se pueden encontrar códigos para:
 
 Blinky
-Comunications
-Sensors
-Switch Button
-
+Comunicaciones
+Sensores
+Switch 
 
 ### Version and date<a name = Version></a>
 
-Driver files      | Version | Date
+Driver files      | Version | Fecha
 ------------------|---------|------------
 Blinky.ino        |  1.2    | 18 Jun 2018
 
