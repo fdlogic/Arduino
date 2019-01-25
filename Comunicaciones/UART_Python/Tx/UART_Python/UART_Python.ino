@@ -1,6 +1,6 @@
 /********************************************************************************
  * Ejemplo: Se realiza la comunicación entre Python y Arduino mediante la UART.
- *          Para lograr la comunicación, se usar Pyserial. 
+ *          Para lograr la comunicación, se usa Pyserial. 
  * Arduino: Arduino UNO         
  ********************************************************************************/
 
@@ -17,5 +17,3 @@ Serial.println("Hola"); // Se envía el dato a mostrar en Pantalla
 delay(1000);
 
 }
-
-

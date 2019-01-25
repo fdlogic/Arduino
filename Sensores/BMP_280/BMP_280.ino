@@ -1,9 +1,8 @@
 /**************************************************************************************
  * Este código toma los datos del sensor BMP280. 
  * Nota: Se utilizará el protocolo I2C. Previamente conviene hacer un scanner de los 
- *       dispositivos I2C conectados y ver su dirección. Para esto se puede usar el
- *       sketch scanner I2C. Luego, con la dirección encontrada, introducirla en
- *       sensor.begin(0X76).
+ *       dispositivos I2C conectados y ver su dirección. Luego, con la dirección 
+ *       encontrada, introducirla en sensor.begin(0X76).
  * Placa: Arduino Nano
  *********************************************************************************** */
 

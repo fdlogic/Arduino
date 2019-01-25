@@ -5,7 +5,7 @@
 - [Introducción](#Introd)
 - [Información](#PICfile)
  
-### Introduction<a name = Introd></a>
+### Introducción<a name = Introd></a>
 
 Estos códigos están hechos para Arduino Uno y Arduino Nano aunque, se pueden modificar sus pines I/O para otro modelo de Arduino. Los mismos
 no contienen optimizaciones ya que son básicos, a modo de exposición.
@@ -28,7 +28,7 @@ Manejo básico de sensores como por ejemplo, BMP 280 y DS18b20
 
 Manejo básico de pines I/O.
  
-### Versin y fecha date<a name = Version></a>
+### Versión y fecha <a name = Version></a>
 
 Driver            | Versión | Fecha
 ------------------|---------|------------
