@@ -11,7 +11,7 @@ Estos códigos están hechos para Arduino Uno y Arduino Nano aunque, se pueden m
 
 En este respositorio se pueden encontrar códigos para:
 
-Blinky
+Blinky:;
 Comunicaciones
 Sensores
 Switch 
