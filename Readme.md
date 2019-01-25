@@ -3,12 +3,12 @@
 ## Contenido
 
 - [Introducción](#Introd)
-- [Información](#PICfile)
+- [Versión y fecha](#Version)
  
 ### Introducción<a name = Introd></a>
 
-Estos códigos están hechos para Arduino Uno y Arduino Nano aunque, se pueden modificar sus pines I/O para otro modelo de Arduino. Los mismos
-no contienen optimizaciones ya que son básicos, a modo de exposición.
+Estos códigos están desarrollados para Arduino Uno y Nano aunque, se pueden modificar sus pines I/O para otro modelo de Arduino. Los mismos
+no están optimizados ya que son básicos, a modo de exposición.
 
 En este respositorio se pueden encontrar códigos:
 
